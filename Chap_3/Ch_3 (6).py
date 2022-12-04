@@ -8,3 +8,4 @@ x2 = (float(input("Enter x2 coordinates: ")))
 y2 = (float(input("Enter y2 coordinates: ")))
 
 print("The slope of the line is", (y2-y1)/(x2/x1))
+
